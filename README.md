@@ -10,6 +10,8 @@
 
 <br/>
 
+* The data used in this code can be found in [yhao-z/dMRI-Data: dMRI data that I always use (github.com)](https://github.com/yhao-z/dMRI-Data)
+
 * The files in the path `algs` :
 
 `mnnAlg.m` and `mnnAlg_fast.m` denotes the classical algorithm using Casorati matrix nuclear norm based on ADMM and the fast algorithm of that.
