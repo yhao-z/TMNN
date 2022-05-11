@@ -1,5 +1,11 @@
 # k-t-TMNN
 
+This is the code of the paper
+```
+Dynamic Cardiac MRI Reconstruction Using Combined Tensor Nuclear Norm and Casorati Matrix Nuclear Norm Regularizations.
+Zhang, Yinghao, and Yue Hu. 
+2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI). IEEE, 2022.
+```
 
 
 * For the k-t TMNN algorithm, run the `Main_dmri_TMnn.m` to test it. The file uses the fast algorithm in frequency domain. The file also contains the fast algorithms for only tensor nuclear norm (TNN) and only Casorati matrix nuclear norm (MNN).  
