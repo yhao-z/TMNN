@@ -1,6 +1,6 @@
 # k-t-TMNN
 
-This is the code of the paper
+This is the code of the paper 'Dynamic Cardiac MRI Reconstruction Using Combined Tensor Nuclear Norm and Casorati Matrix Nuclear Norm Regularizations'.
 ```
 Dynamic Cardiac MRI Reconstruction Using Combined Tensor Nuclear Norm and Casorati Matrix Nuclear Norm Regularizations.
 Zhang, Yinghao, and Yue Hu. 
